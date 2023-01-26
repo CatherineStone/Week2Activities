@@ -144,4 +144,4 @@
 
 // A while loop is used when we don't know in advance how many times the loop should run.
 
-// A do... while loop says to do a task once and then keep doing it until a specified condition is no longer met.
+// A do... while loop says to do a task once and then keep doing it until a specified condition is no longer met. 
